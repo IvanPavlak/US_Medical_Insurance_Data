@@ -1,2 +1,5 @@
-# US_Medical_Insurance_Data
-Analysis of the US Medical Insurance dataset
+-everything relevant is contained in 'us-medical-insurance-costs.ipynb' file
+
+-'insurance.csv' contains the analyzed dataset
+
+-every other file is a '.png' file
